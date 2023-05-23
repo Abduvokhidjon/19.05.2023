@@ -21,4 +21,4 @@ superhero = "Naruto"
 var score 
 score = 5
 level = 0<score && score<10
-console.log(superhero + " has mid-level skills: " + level )
+console.log(superhero + " has mid-level skills: " + level)
